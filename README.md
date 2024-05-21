@@ -1,2 +1,2 @@
 # ML-Project
-python Jupyter
+Python Jupyter
